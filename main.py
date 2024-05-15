@@ -5,7 +5,8 @@ import time
 import PIL.Image
 from tkinter import *
 import tkinter as tk
-import pystray
+import pystray 
+
 
 def clock():
     # Добавление иконки в трей
